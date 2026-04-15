@@ -81,7 +81,7 @@ julia extract_data.jl
 ### The Visualization
 The output below demonstrates the "Deep Bucket Paradox" solved: by restricting the wave tank depth to 5 meters and forcing a time-dependent traveling wind, the fluid violently piles up against the bounded topology. The USV (red marker) actively thrusts to maintain its position at `(50.0, 50.0)` despite the chaotic surface geometry.
 
-![USV Wave Tank Animation](usv_surge_animation.mp4)
+![USV Wave Tank Animation](usv_surge_animation.gif)
 
 ### The Data Proof
 The resulting performance graph plots **Simulation Time (s)** vs **Water Velocity (m/s)**. 
